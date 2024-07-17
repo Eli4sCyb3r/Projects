@@ -1,0 +1,1 @@
+The installations.sh script sets up the remote environment, ensuring all required tools are available and the host is anonymized. The project.nr.sh script orchestrates the overall process, including connecting to the remote host, ensuring both local and remote hosts are anonymous, performing scans, and securely handling the results.
